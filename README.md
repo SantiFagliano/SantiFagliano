@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Santiago Fagliano</h1>
 <h3 align="center">A passionate backend developer from Argentina</h3>
-<img aling="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif"></img>
+<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif">
 
 - 🌱 I’m currently learning **React**
 
